@@ -51,13 +51,11 @@ header p {
     padding-right: 10px;
     margin: auto;
     text-shadow: 3px 2px 3px rgba(0, 0, 0, 0.808);
-    margin-bottom: 20px;
-    
     
 }
 
 nav {
-    padding: 20px 10px 10px 10px ;
+    padding: 40px 10px 10px 10px ;
     background-color: #09301A;
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.397);
 }
